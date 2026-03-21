@@ -1,16 +1,17 @@
-## Hi there 👋
+## Alessio Giannini
 
-<!--
-**aleGiannini/aleGiannini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Blockchain & MEV Engineer with 6 years of software development experience. Background in enterprise Java/Spring Boot, now focused on Polkadot, Substrate, and DeFi infrastructure.
 
-Here are some ideas to get you started:
+Graduate of the **Polkadot Blockchain Academy** (Hong Kong, 2024).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Current work**
+- [xchain-mev-research](https://github.com/xchain-mev-research) — open source infrastructure for MEV analysis and high-granularity DeFi data collection across EVM and Substrate blockchains
+- Cross-chain arbitrage simulator across V2/V3/V4 AMMs, stable pools, and LSTs
+- Multi-parachain DEX indexer for intra-block state delta reconstruction
+- Cross-chain MEV execution bot (Rust, Solidity, XCM)
+
+**Focus areas**
+- MEV opportunity modeling and execution
+- Cross-chain arbitrage and protocol economics
+- Substrate runtime architecture and pallet design
+ 
