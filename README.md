@@ -15,3 +15,4 @@ Graduate of the **Polkadot Blockchain Academy** (Hong Kong, 2024).
 - Cross-chain arbitrage and protocol economics
 - Substrate runtime architecture and pallet design
  
+Blog: [alessiogiannini.dev](https://alessiogiannini.dev)
