@@ -16,3 +16,7 @@ Graduate of the **Polkadot Blockchain Academy** (Hong Kong, 2024).
 - Substrate runtime architecture and pallet design
  
 Blog: [alessiogiannini.dev](https://alessiogiannini.dev)
+
+Getting into MEV or Substrate? I keep a few free 30-min office-hour calls every month — message me on LinkedIn.
+
+
